@@ -1,0 +1,8 @@
+{
+  "_note": "How photos map to the hunt's coordinate frame (photo 03). stepEdges are y-fractions in photo 03 separating: top ledge | step 1 | step 2 | step 3 | step 4 | floor. photo01ToMiddle maps a point (x1,y1) in photo 01 to photo 03: x3 = ax*x1 + bx, y3 = ay*y1 + by. staircase x-ranges are in photo 01.",
+  "stepEdges": [0.17, 0.28, 0.40, 0.535, 0.70],
+  "staircaseWidth": 0.62,
+  "photo03Middle": [0.12, 0.88],
+  "photo01": { "left": [0.0, 0.335], "middle": [0.335, 0.655], "right": [0.655, 1.0] },
+  "photo01ToMiddle": { "ax": 2.35, "bx": -0.6565, "ay": 1.525, "by": -0.3965 }
+}

@@ -1,0 +1,14 @@
+{
+  "_note": "pos = centre of the doll in photo 03 (middle staircase), as fractions of width/height. step: 1 = Tirupati row, 4 = Kannappa row.",
+  "targets": [
+    { "id": "kannappa",   "title": "Kannappa Nayanar",           "step": 4, "pos": [0.50, 0.61] },
+    { "id": "govardhana", "title": "Krishna lifts Govardhana",   "step": 3, "pos": [0.765, 0.49] },
+    { "id": "manthan",    "title": "Samudra Manthan",            "step": 2, "pos": [0.547, 0.34] },
+    { "id": "kaliya",     "title": "Kaliya Mardhanam",           "step": 3, "pos": [0.583, 0.483] },
+    { "id": "ranganatha", "title": "Ranganatha on Adisesha",     "step": 4, "pos": [0.262, 0.63] },
+    { "id": "lap",        "title": "Resting in a goddess's lap", "step": 4, "pos": [0.732, 0.635] },
+    { "id": "durga",      "title": "Mahishasuramardini",         "step": 2, "pos": [0.292, 0.33] },
+    { "id": "murugan",    "title": "Murugan on his peacock",     "step": 2, "pos": [0.685, 0.352] },
+    { "id": "sanjeevani", "title": "Hanuman carries Sanjeevani", "step": 1, "pos": [0.252, 0.257] }
+  ]
+}
